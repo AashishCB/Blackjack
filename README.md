@@ -13,4 +13,4 @@ $ python script1.py
 
 or
 
-$ python3 script2.py
+$ python3 script1.py
